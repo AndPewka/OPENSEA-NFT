@@ -1,0 +1,5 @@
+count=5
+password=""
+delay=1
+persons=["708173040"]
+token="1928890454:AAH2qGxtWbaqtmFhw1-QSwfgjVG3zgKi3vc"

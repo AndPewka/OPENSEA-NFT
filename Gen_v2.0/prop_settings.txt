@@ -1,0 +1,23 @@
+#N     properties      name       chance
+
+|0| - [Background] - {blue.png}   - $60$
+|1| - [Background] - {green.png}  - $17.5$
+|2| - [Background] - {red.png}    - $7.5$
+|3| - [Background] - {vallet.png} - $7.53$
+|4| - [Background] - {yellow.png} - $7.52$
+
+|0| - [Fur]        - {purple.png} - $7.54$
+|1| - [Fur]        - {red.png}    - $7.5$
+|2| - [Fur]        - {blue.png}   - $7.53$
+|3| - [Fur]        - {brown.png}  - $17.5$
+|4| - [Fur]        - {black.png}  - $62$
+
+|0| - [Body]        - {body.png}  - $100$
+
+|0| - [eyes]        - {red_eyes.png} - $33$
+|1| - [eyes]        - {blue eyes.png} - $67$
+
+|0| - [glasses]     - {bandage.png} - $95$
+|1| - [glasses]     - {without.png} - $5$
+
+[Delete] - {Body}

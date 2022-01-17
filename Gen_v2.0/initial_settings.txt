@@ -1,0 +1,21 @@
+print("get settings")
+bool_load="yes" #yes - будет использован кликер/no - будет только генерация картинок
+give_price="yes" #yes - поставиться цена для nft/no - цены не будет
+
+
+start_word=""
+count=10000  #колличество созданных картинок
+delay=0.5
+last_count=5
+count_collection=1
+
+rare_point=45
+default_price=0.01
+k=0.9
+
+persons=["708173040"]
+token="1928890454:AAH2qGxtWbaqtmFhw1-QSwfgjVG3zgKi3vc"
+password="x2rdUvvVCCd9mS8"
+script="C:\\Users\\AndPewka\\Desktop\\bananas_gen\\main.exe"
+
+ 
